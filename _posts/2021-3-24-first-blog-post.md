@@ -18,3 +18,8 @@ This is just a random paragraph.
 1. first item
 2. second item
 3. third item
+
+__bold text__
+
+_italic_
+
