@@ -8,3 +8,5 @@ title: This is my very first blog post
 ## This is a secondary heading
 
 This is just a random paragraph.
+
+[Learn more about my project](https://jackbdu.com/)
